@@ -2,7 +2,9 @@
 """
 Created on Thu Aug 24 17:27:03 2023
 
-@author: madhu
+author: arapfaik
+url: https://github.com/arapfaik/scraping-glassdoor-selenium
+
 """
 
 # -*- coding: utf-8 -*-
